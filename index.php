@@ -14,3 +14,7 @@ phpinfo();
 echo "Hello world";
 
 echo "Vahag";
+function dir(){
+echo 'vrvrv';
+}
+
